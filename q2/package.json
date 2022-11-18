@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
   "author": "Etana",
+=======
+  "author": "etana",
+>>>>>>> 67521b6b31564373dd3e08f2a8a556882c9617c3
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
