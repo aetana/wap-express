@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Etana",
+  "author": "etana",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
