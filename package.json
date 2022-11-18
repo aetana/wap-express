@@ -1,0 +1,19 @@
+{
+  "name": "express-wap",
+  "version": "1.0.0",
+  "description": "This is our first express project for projects presented in wap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aetana/wap-express.git"
+  },
+  "author": "Etana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aetana/wap-express/issues"
+  },
+  "homepage": "https://github.com/aetana/wap-express#readme"
+}
